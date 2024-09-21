@@ -30,12 +30,13 @@
   "main": "main.jsx",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rockstar-26/payment-app-webpage.git"
+   "url": "git+https://github.com/Rockstar-26/Next-Gen-Payment-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rockstar-26/payment-app-webpage/issues"
+    "url": "https://github.com/Rockstar-26/Next-Gen-Payment-app/issues"
+
   },
-  "homepage": "https://github.com/rockstar-26/payment-app-webpage#readme"
+  "homepage": "https://github.com/Rockstar-26/Next-Gen-Payment-app#readme"
 }
